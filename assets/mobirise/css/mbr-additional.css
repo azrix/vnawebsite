@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -500,10 +502,12 @@ h6,
   color: #ffffff;
   font-size: 22px;
 }
-#features1-t .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#msg-box5-1n P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+  color: #ffffff;
 }
-#features1-t .mbr-cards-col:nth-child(even) .card-title {
+#msg-box5-1n H3 {
   color: #ffffff;
 }
 #menu-9 .hide-buttons .nav-btn {
