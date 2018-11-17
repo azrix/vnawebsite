@@ -793,7 +793,7 @@
             },
             "fields": {
               "name": {
-                "visible": false,
+                "visible": true,
                 "title": "Name",
                 "customTitle": "Name*"
               },
@@ -937,7 +937,7 @@
           "subtitle": "Contact Us.Want to know more about VNA Resources? Looking to start your next project? You can contact us online, by phone or by email",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
-            "action": "azrixaziz@gmail.com",
+            "action": "enquiry@vnaresources.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1168,7 +1168,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>VNA Resources Sdn. Bhd. was incorporated under the Companies Act 1965 and registered on 14th July 2004, a bumiputera company. The company's main objective is to enhance the achievement of Bumiputera entrepreneurs in the business field and indirectly contribute towards generating national economic growth.\r</p><p><br></p><p><div>VNA Resources Sdn. Bhd. has also been registered with the Bumiputera Status Contractor (PKK), Grade G7 Industry Development Board (CIDB) and the Ministry of Finance Malaysia (MOF).\r</div><div><br></div><div>The company's major engagement is in the areas of building, renovation and maintenance of buildings as well as services such as area cleaning and building cleaning. In addition, the company is also involved in the field of supply of marine equipment, agricultural and plantation equipment.\r</div><div><br></div><div>Through knowledge gained from extensive experience and efficient manage-ment support, the company is now more competitive and more prepared in the face of the challenges of globalization in business. Additionally with ex-perienced young people with high skills, the company is confident to pro-vide the best quality of work to customers.</div><div><br></div></p>",
+          "text": "<p>VNA Resources Sdn. Bhd. was incorporated under the Companies Act 1965 and registered on 14th July 2004, a bumiputera company. The company's main objective is to enhance the achievement of Bumiputera entrepreneurs in the business field and indirectly contribute towards generating national economic growth.\n</p><p><br></p><p></p><div>VNA Resources Sdn. Bhd. has also been registered with the Bumiputera Status Contractor (PKK), Grade G7 Industry Development Board (CIDB) and the Ministry of Finance Malaysia (MOF).\n</div><div><br></div><div>The company's major engagement is in the areas of building, renovation and maintenance of buildings as well as services such as area cleaning and building cleaning. In addition, the company is also involved in the field of supply of marine equipment, agricultural and plantation equipment.\n</div><div><br></div><div>Through knowledge gained from extensive experience and efficient manage-ment support, the company is now more competitive and more prepared in the face of the challenges of globalization in business. Additionally with ex-perienced young people with high skills, the company is confident to pro-vide the best quality of work to customers.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p>",
           "_tags": [
             "Theme"
           ],
