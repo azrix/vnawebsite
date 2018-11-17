@@ -447,11 +447,11 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "2",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgColor": "#746c5e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -545,7 +545,7 @@
           "_anchor": "features3-s",
           "_styles": {
             "H4": {
-              "color": "#f5f015"
+              "color": "#ffffff"
             }
           }
         },
@@ -710,7 +710,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#746c5e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
