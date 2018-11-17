@@ -934,7 +934,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT US",
-          "subtitle": "Contact Us.Want to know more about VNA Resources? Looking to start your next project? You can contact us online, by phone or by email",
+          "subtitle": "Contact Us. Want to know more about VNA Resources? Looking to start your next project? You can contact us online, by phone or by email",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "enquiry@vnaresources.com",
