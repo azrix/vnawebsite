@@ -145,6 +145,21 @@
             "timeout": 5,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/slider-3-1600x1069.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "vna resources",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "We build tomorrow",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/slide-1-1568x1120.jpg",
                 "active": false,
                 "showButtons": false,
@@ -171,21 +186,6 @@
                 "contentAlign": "right",
                 "text": "Building your visions. Creating reality.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider-3-1600x1069.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "vna resources",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "We build tomorrow",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
-                "overlayOpacity": "0.1"
               }
             ]
           },
