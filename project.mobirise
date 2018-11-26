@@ -141,7 +141,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "timeout": 5,
             "slides": [
               {
@@ -169,7 +169,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "vna resources",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "Marine Equipment Supply",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Us Out</a>",
                 "overlayOpacity": "0.3"
@@ -238,7 +238,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
