@@ -378,10 +378,10 @@
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12-1920x1280.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#746c5e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -395,7 +395,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-iso-351-350x218.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-iso-352-350x218.jpg",
               "link": "",
               "alt": "",
               "title": ""
