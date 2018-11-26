@@ -526,13 +526,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -544,16 +544,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1011,13 +1011,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1029,16 +1029,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
