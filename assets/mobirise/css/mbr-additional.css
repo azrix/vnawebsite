@@ -2535,6 +2535,14 @@ body {
 .cid-raRaFLuGeJ .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-raSq9yt4PB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1079.jpg");
+}
+.cid-raSq9yt4PB H2 {
+  color: #efefef;
+}
 .cid-raRbnQwEAM .google-map {
   height: 25rem;
   position: relative;
@@ -2564,7 +2572,7 @@ body {
 .cid-raRbjn8qLc {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #b2ccd2;
 }
 .cid-raRbjn8qLc .title {
   margin-bottom: 2rem;
