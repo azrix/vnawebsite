@@ -1822,48 +1822,64 @@ body {
 .cid-raPNlnEB3q .card-title {
   text-align: center;
 }
-.cid-raQexNfFm6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1255.jpg");
+.cid-raThmghU6V {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f9f9f9;
 }
-.cid-raQexNfFm6 .mbr-section-subtitle {
+.cid-raThmghU6V .mbr-section-text {
   color: #767676;
 }
-.cid-raQexNfFm6 .media-row {
-  display: -webkit-flex;
-  justify-content: center;
+.cid-raThmghU6V .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-raThmghU6V .tabcont {
   -webkit-justify-content: center;
+  justify-content: center;
 }
-.cid-raQexNfFm6 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
+.cid-raThmghU6V .mbr-iconfont {
+  font-size: 48px;
 }
-.cid-raQexNfFm6 .team-item .item-image img {
+.cid-raThmghU6V .card-img {
+  margin-bottom: 1.5rem;
+}
+.cid-raThmghU6V .tab-content-row {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-raThmghU6V .tab-content {
+  margin-top: 3rem;
   width: 100%;
 }
-.cid-raQexNfFm6 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-raQexNfFm6 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-raQexNfFm6 .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
+.cid-raThmghU6V .nav-tabs {
+  -webkit-justify-content: center;
   justify-content: center;
   -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
+  flex-wrap: wrap;
+  border-bottom: none;
 }
-.cid-raQexNfFm6 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
+.cid-raThmghU6V .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #767676;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: color .3s;
+  border: 2px solid #767676;
 }
-.cid-raQexNfFm6 .team-item .item-caption {
-  background: #ffffff;
+.cid-raThmghU6V .nav-tabs .nav-link:hover {
+  background: #149dcc;
 }
-.cid-raQexNfFm6 B {
+.cid-raThmghU6V .nav-tabs .nav-link.active {
   color: #ffffff;
+  font-style: normal;
+  border: 2px solid #149dcc;
+  background: #149dcc;
+}
+.cid-raThmghU6V .nav-tabs .nav-link.active:hover {
+  border: 2px solid #149dcc;
 }
 .cid-raPF8wE2M9 {
   padding-top: 30px;
