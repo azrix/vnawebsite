@@ -1825,7 +1825,7 @@ body {
 .cid-raThmghU6V {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-raThmghU6V .mbr-section-text {
   color: #767676;
@@ -1880,6 +1880,12 @@ body {
 }
 .cid-raThmghU6V .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
+}
+.cid-raThmghU6V B {
+  color: #ffffff;
+}
+.cid-raThmghU6V H4 {
+  color: #ffffff;
 }
 .cid-raPF8wE2M9 {
   padding-top: 30px;
